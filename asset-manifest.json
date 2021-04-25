@@ -15,12 +15,12 @@
     "main.css": "/static/css/main.1c79a496.chunk.css",
     "main.js": "/static/js/main.60d883bd.chunk.js",
     "main.js.map": "/static/js/main.60d883bd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.452d3807.js",
-    "runtime-main.js.map": "/static/js/runtime-main.452d3807.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6d66440c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6d66440c.js.map",
     "static/js/8.c9192163.chunk.js": "/static/js/8.c9192163.chunk.js",
     "static/js/8.c9192163.chunk.js.map": "/static/js/8.c9192163.chunk.js.map",
-    "static/js/9.5a66dc08.chunk.js": "/static/js/9.5a66dc08.chunk.js",
-    "static/js/9.5a66dc08.chunk.js.map": "/static/js/9.5a66dc08.chunk.js.map",
+    "static/js/9.214f43ca.chunk.js": "/static/js/9.214f43ca.chunk.js",
+    "static/js/9.214f43ca.chunk.js.map": "/static/js/9.214f43ca.chunk.js.map",
     "static/js/10.097b0832.chunk.js": "/static/js/10.097b0832.chunk.js",
     "static/js/10.097b0832.chunk.js.map": "/static/js/10.097b0832.chunk.js.map",
     "static/js/11.abf5b29e.chunk.js": "/static/js/11.abf5b29e.chunk.js",
@@ -81,7 +81,7 @@
     "static/media/vlad-circle.ff02a5a1.png": "/static/media/vlad-circle.ff02a5a1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.452d3807.js",
+    "static/js/runtime-main.6d66440c.js",
     "static/js/8.c9192163.chunk.js",
     "static/css/main.1c79a496.chunk.css",
     "static/js/main.60d883bd.chunk.js"
