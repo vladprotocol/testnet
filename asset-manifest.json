@@ -11,8 +11,8 @@
     "static/js/4.9c4887b5.chunk.js": "/static/js/4.9c4887b5.chunk.js",
     "static/js/4.9c4887b5.chunk.js.map": "/static/js/4.9c4887b5.chunk.js.map",
     "main.css": "/static/css/main.1fcb7fe7.chunk.css",
-    "main.js": "/static/js/main.c6460311.chunk.js",
-    "main.js.map": "/static/js/main.c6460311.chunk.js.map",
+    "main.js": "/static/js/main.97590a76.chunk.js",
+    "main.js.map": "/static/js/main.97590a76.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.53a1df4b.js",
     "runtime-main.js.map": "/static/js/runtime-main.53a1df4b.js.map",
     "static/css/7.4c97ca4f.chunk.css": "/static/css/7.4c97ca4f.chunk.css",
@@ -70,7 +70,7 @@
     "static/js/26.7322f587.chunk.js.LICENSE.txt": "/static/js/26.7322f587.chunk.js.LICENSE.txt",
     "static/js/7.d3a0c183.chunk.js.LICENSE.txt": "/static/js/7.d3a0c183.chunk.js.LICENSE.txt",
     "static/media/main.css": "/static/media/smballcircle.66a2662a.svg",
-    "static/media/alife.45443b41.svg": "/static/media/alife.45443b41.svg",
+    "static/media/alife.fc7425b7.png": "/static/media/alife.fc7425b7.png",
     "static/media/style.css": "/static/media/bg-background.08780730.jpg",
     "static/media/bg-footer.c4a28f99.jpg": "/static/media/bg-footer.c4a28f99.jpg",
     "static/media/life.aad83452.png": "/static/media/life.aad83452.png",
@@ -84,6 +84,6 @@
     "static/css/7.4c97ca4f.chunk.css",
     "static/js/7.d3a0c183.chunk.js",
     "static/css/main.1fcb7fe7.chunk.css",
-    "static/js/main.c6460311.chunk.js"
+    "static/js/main.97590a76.chunk.js"
   ]
 }
